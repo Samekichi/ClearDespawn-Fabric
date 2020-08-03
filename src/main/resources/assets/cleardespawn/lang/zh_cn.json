@@ -1,0 +1,4 @@
+{
+    "cleardespawn.config.timeleft": "闪烁的起始时间 (秒)",
+    "cleardespawn.config.tt.timeleft": "一旦掉落物的消失倒计时小于这个值，其便会开始闪烁"
+}
